@@ -1,3 +1,3 @@
 # PdSnSiO
 
-The Supplementary Materials of the training dataset for the machine learning interatomic potential of PdSnSiO
+The Supplementary Materials of the Training Dataset for the Machine Learning Interatomic Potential of PdSnSiO and Movies for MD Processes
